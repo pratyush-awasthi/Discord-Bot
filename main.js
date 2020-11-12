@@ -47,5 +47,5 @@ else if(command === 'avatar'){
 
 
 
-client.login('NzYxMTI3NTk2MTYyNTQ3NzEy.X3WFTw.S-gi7hsAognIXcwCmKZMwZlmhhU');
+client.login('Token from https://discord.com/developers/applications');
 
